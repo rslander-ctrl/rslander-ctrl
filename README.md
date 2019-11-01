@@ -1,1 +1,1 @@
-# rslander-ctrl
+permalink: /index.html
